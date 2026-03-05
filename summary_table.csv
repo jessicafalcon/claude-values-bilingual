@@ -1,0 +1,5 @@
+model,language,n,top_domain,practical_pct,epistemic_pct,social_pct,protective_pct,personal_pct,caution_high_pct,caution_low_pct,support_pct,avg_word_count
+sonnet,english,40,Epistemic,27.5,30.0,15.0,10.0,17.5,7.5,20.0,47.5,210.0
+sonnet,spanish,40,Epistemic,20.0,30.0,22.5,12.5,15.0,5.0,20.0,50.0,210.0
+haiku,english,40,Epistemic,35.0,42.5,5.0,7.5,10.0,10.0,12.5,37.5,203.0
+haiku,spanish,40,Epistemic,32.5,35.0,7.5,10.0,15.0,7.5,12.5,42.5,194.0
