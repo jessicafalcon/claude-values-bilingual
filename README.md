@@ -33,6 +33,7 @@ Each response was coded using Claude Haiku as an automated coder, applying the V
 | File | Description |
 |------|-------------|
 | `values_analysis.py` | Data collection script — runs all API calls and stores results |
+| `insight_report.pdf` | Full research summary with figures and findings |
 | `analysis.ipynb` | Analysis and visualization notebook |
 | `requirements.txt` | Python dependencies |
 | `.env.example` | Template for environment variables — copy to `.env` and add your API key |
