@@ -45,7 +45,7 @@ Each response was coded using Claude Haiku as an automated coder, applying the V
 
 ## Key Findings
 
-**Finding 1 — Core stability:** Epistemic values dominate across both languages and both model sizes (Sonnet: 30%/30%; Haiku: 42.5%/35%). Chi-square tests found no statistically significant association between language and any of the three coded dimensions — value domain, caution level, or response type — in either model. This replicates and extends Huang et al.'s finding that Epistemic values dominate in English, suggesting the pattern is robust across language contexts.
+**Finding 1 — Core stability:** Epistemic values dominate across both English and Spanish languages and both model sizes (Sonnet: 30%/30%; Haiku: 42.5%/35%). Chi-square tests found no statistically significant association between language and any of the three coded dimensions — value domain, caution level, or response type — in either model. This replicates and extends Huang et al.'s finding that Epistemic values dominate in English, suggesting the pattern is robust across language contexts.
 
 **Finding 2 — AI & Society is the exception:** Prompts discussing AI itself triggered high caution at 25% in English but only 12.5% in Spanish — a 2x gap consistent across both models. No other category showed a comparable language-driven divergence. This asymmetry raises questions about whether AI safety information reaches Spanish-speaking users with equivalent emphasis.
 
