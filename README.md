@@ -49,7 +49,7 @@ Each response was coded using Claude Haiku as an automated coder, applying the V
 
 **Finding 2 — AI & Society is the exception:** Prompts discussing AI itself triggered high caution at 25% in English but only 12.5% in Spanish — a 2x gap consistent across both models. No other category showed a comparable language-driven divergence. This asymmetry raises questions about whether AI safety information reaches Spanish-speaking users with equivalent emphasis.
 
-**Finding 3 — Model size interacts with language differently:** Sonnet becomes more socially oriented in Spanish (Social: 15% → 22.5%) and less neutral (Neutral: 15% → 5%). Haiku shows the opposite in response type — Reframing drops from 40% to 25% in Spanish while Mild Resistance increases from 15% to 20%. These divergent directions suggest language effects on response style are not uniform across model sizes.
+**Finding 3 — Model size interacts with language differently:** In Spanish, Sonnet becomes more socially oriented (15% → 22.5%) and less neutral (15% → 5%) compared to English. In contrast, Haiku shows the opposite pattern: Reframing drops (40% → 25%) and Mild Resistance rises (15% → 20%) in Spanish compared to English. These divergent directions suggest language effects on response style are not uniform across model sizes.
 
 ---
 
